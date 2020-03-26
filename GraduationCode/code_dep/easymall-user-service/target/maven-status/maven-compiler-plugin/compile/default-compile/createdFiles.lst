@@ -1,0 +1,6 @@
+cn\tedu\StarterUserService.class
+cn\tedu\user\controller\ClusterController.class
+cn\tedu\user\controller\UserController.class
+cn\tedu\user\mapper\UserMapper.class
+cn\tedu\user\service\UserService.class
+cn\tedu\user\util\RedisUtils.class
